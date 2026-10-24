@@ -1,0 +1,16 @@
+GrantID,Funder,DateApplied,AmountRequested,Type,Status,DateDecided,AmountReceived
+G-001,Southbank Giving Trust,2025-02-22,15000,Restricted,Successful,2025-06-05,15000
+G-002,Harbourside Philanthropy,2025-02-22,15000,Unrestricted,Successful,2025-05-01,12000
+G-003,Coastline Giving Circle,2025-03-24,25000,Unrestricted,Successful,2025-05-24,25000
+G-004,Southbank Giving Trust,2025-05-18,50000,Unrestricted,Successful,2025-09-02,50000
+G-005,Southbank Giving Trust,2025-06-20,100000,Unrestricted,Unsuccessful,2025-08-13,0
+G-006,Riverbend Family Fund,2025-08-11,15000,Unrestricted,Unsuccessful,2025-11-09,0
+G-007,Coastline Giving Circle,2025-09-14,30000,Restricted,Successful,2025-12-10,24000
+G-008,Bluewater Trust,2025-09-03,15000,Restricted,Unsuccessful,2025-12-16,0
+G-009,Bluewater Trust,2025-12-22,15000,Unrestricted,Unsuccessful,2026-03-19,0
+G-010,Southbank Giving Trust,2025-12-07,40000,Unrestricted,Successful,2026-03-22,32000
+G-011,Harbourside Philanthropy,2026-02-04,75000,Restricted,Pending,,0
+G-012,Greenfield Social Impact Fund,2026-03-23,25000,Restricted,Pending,,0
+G-013,Southbank Giving Trust,2026-04-03,30000,Restricted,Pending,,0
+G-014,Bluewater Trust,2026-04-05,25000,Unrestricted,Pending,,0
+G-015,Wattle Foundation,2026-04-04,20000,Restricted,Pending,,0
